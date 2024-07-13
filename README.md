@@ -11,4 +11,5 @@ A high-performing alternative to Gallium, Sturdy and other custom keyboard layou
 
 ![ULC-Ultimate-Layout-Comparison-xlsx--Excel-13072024-223126](https://github.com/user-attachments/assets/72971fd1-62cf-4769-b2bf-d33bff670489)
 
-An easy way to make it even more comfortable by boosting inrolls would be to use software / firmware to either reverse the TH bigram (so that typing HT will result in TH and TH will result in HT) or implement an HG or MD combo that outputs TH.
+- Can easily be made even more comfortable by boosting inrolls through software / firmware to either reverse the TH bigram (so that typing HT will result in TH and TH will result in HT) or implement an HG or MD combo that outputs TH.
+- The FY, CY and WY SFBs on vowel index are easy to alt-finger.
