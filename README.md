@@ -1,5 +1,5 @@
 # Focal-keyboard-layout
-A high-performing alternative to Gallium, Sturdy and other custom nkeyboard layouts
+A high-performing alternative to Gallium, Sturdy and other custom keyboard layouts
 
 ![Focal-compact](https://github.com/user-attachments/assets/6e39f595-086a-48da-bfb0-59e50ef9a164)
 
